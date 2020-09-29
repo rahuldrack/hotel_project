@@ -1,0 +1,87 @@
+
+.form-style{
+    margin:50px 75px;
+}
+.email{
+    margin-top: 25px;
+}
+
+.room-type{
+    margin-top: 25px;
+}
+.guests{
+    margin-top:25px;
+    display: inline-flex;
+    flex-flow: row;
+
+}
+.street{
+    margin-top: 25px;
+}
+.date{
+    margin-top: 25px;
+}
+.departure{
+    margin-top: 25px;
+}
+.free{
+    margin-top: 25px;
+
+}
+.flight{
+    margin-top: 25px;
+
+}
+.request{
+    margin-top: 25px;
+}
+
+.submit{
+    background-color: #ff5f58;
+    color:white
+    
+}
+.name > input {
+    width:40%;
+    height:30px;
+    display: inline-flex;
+  flex-flow: row;
+}
+.email >input{
+    margin-left: 100px;
+    width:65%;
+    height:30px;
+}
+.room-type > select{
+    margin-left: 63px;
+    width:66%;
+    height:30px
+}
+.guests>div{
+    width:65%;
+    height:30px
+}
+.street>input{
+    margin-left: 35px;
+    width:66%;
+    height:30px;
+}
+.departure>input{
+    margin-left: 20px;
+    width:20%;
+    height:30px;
+    display: inline-flex;
+  flex-flow: row;
+}
+.flight>input{
+    width:30%;
+    height:30px;
+}
+.request>textarea{
+    width:83%;
+    height:120px
+}
+.submit{
+    width:100%;
+    height:80px;
+}

@@ -1,0 +1,21 @@
+.logo{
+    border: solid;
+    border-color: #39F;
+    border-width: 1px;
+}
+.logo > p{
+    text-align: center;
+    font-size: 16px;
+    line-height: 22px;
+    columns: #4f4f4f;
+}
+.main-heading{
+    display: flex;
+    background-color: #ff5f58;
+}
+
+.main-heading > h1{
+    margin:50px;
+    color: #fff;
+    font-size:22px;
+}
